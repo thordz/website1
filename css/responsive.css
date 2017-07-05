@@ -1,0 +1,95 @@
+@media screen and (max-width: 1024px) {
+  .img-logo {
+    height: 100%;
+  }
+  .profile {
+    top: 86%;
+    left: 15%;
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 114px;
+  }
+  .employee {
+    margin-bottom: 100px;
+  }
+  .profile {
+    top: 74%;
+    left: 20%;
+    width: 60%;
+    padding: 35px 0px 38px 0px;
+  }
+  .forms {
+    margin-bottom: 5%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  h1 {
+    font-size: 67px;
+  }
+  .profile {
+    top: 69%;
+    left: 25%;
+    width: 50%;
+    padding: 25px 0px 28px 0px;
+  }
+  .power {
+    font-size: 15px;
+    margin: 0px 0px 0px 10px;
+    letter-spacing: 6px;
+  }
+  .fully {
+    width: 300px;
+  }
+  .quality {
+    width: 330px;
+  }
+  .headers {
+    width: 358px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  h1 {
+    font-size: 58px;
+  }
+  .power {
+    font-size: 18px;
+    margin: 0px 0px 5px 0px;
+    letter-spacing: 2px; 
+  }
+  .fully {
+    width: 250px;
+  }
+  .quality {
+    width: 280px;
+  }
+  .headers {
+    width: 308px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  h1 {
+    font-size: 49px;
+  }
+  .power {
+    font-size: 16px;
+    margin: 0px 0px 5px 0px;
+    letter-spacing: 1px;
+  }
+  .fully {
+    width: 210px;
+  }
+  .quality {
+    width: 240px;
+  }
+  .headers {
+    width: 258px;
+  }
+
+}

@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'big_johnregular';
+    src: url('big-john-webfont.woff2') format('woff2'),
+         url('big-john-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('opensans-light-webfont.woff2') format('woff2'),
+         url('opensans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans-regular-webfont.woff2') format('woff2'),
+         url('opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gothambold';
+    src: url('gothambold-webfont.woff2') format('woff2'),
+         url('gothambold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gotham_mediumregular';
+    src: url('gotham_medium_regular-webfont.woff2') format('woff2'),
+         url('gotham_medium_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gotham_bookregular';
+    src: url('gotham_book_regular-webfont.woff2') format('woff2'),
+         url('gotham_book_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
